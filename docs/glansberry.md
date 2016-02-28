@@ -2,3 +2,4 @@
  - [ ] Boston
  - [ ] Pizza
  - [ ] Giting
+ - [ ] Favorite Color: Chantilly Suede
