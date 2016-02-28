@@ -1,5 +1,6 @@
  - [ ] Geoff Lansberry
  - [ ] Boston
  - [ ] Pizza
- - [ ] Giting
+ - [ ] Git'ing
  - [ ] Favorite Color: Chantilly Suede
+ - [ ] Favorite Band: Led Zeppelin
